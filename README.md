@@ -13,8 +13,6 @@ Git is a **distributed Version Control System (VCS)**, which means it is a usefu
 
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
 
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
-
 ## :octocat: Understanding the GitHub flow 
 
 The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
@@ -61,7 +59,7 @@ For larger projects, you can keep track of many issues on a project board. GitHu
 You can also link together pull requests and issues to show that a fix is in progress and to automatically close the issue when someone merges the pull request.
 To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
 
-### Your user profile
+### Your github user profile
 
 Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
 To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
@@ -83,7 +81,9 @@ To learn  more about starring repositories, read ["Saving Repositories with Star
 #### Following users 
 
 You can follow people on GitHub to receive notifications about their activity and discover projects in their communities. When you follow a user, their public GitHub activity will show up on your dashboard so you can see all the cool things they are working on. 
-To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
+To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people). 
+
+Check a list of other users shared in the group and follow each one of them. 
 
 #### Browsing GitHub Explore 
 
@@ -96,9 +96,9 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ⚠️⚠️ The following are required as part of submission. ⚠️⚠️
 
 * Create a [new markdown file](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files) in this repository. Let us know what you learned and what you are still confused about! Experiment with different styles!
-* Open [a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with the changes and let us know that you’ve finished this course.
+* Open [a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with the changes. 
 * Follow your fellow students, You can do this by going to their Github profile
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+* Create your profile README(not in this repository but on your github profile). Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
     * Add a link here to Github profile after creating a profile README
 
 ## 📚  Resources 
@@ -108,6 +108,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
